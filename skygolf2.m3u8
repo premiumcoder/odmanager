@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:0,Test
 #EXTVLCOPT:http-referrer=https://tiksports.net/
-#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; G011A Build/PI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://cdn.aluku91.foundation/pre42.m3u8
